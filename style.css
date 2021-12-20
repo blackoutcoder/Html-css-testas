@@ -118,6 +118,11 @@ header {
   text-decoration: none;
 }
 
+.footernotes a:hover {
+  background-color: black;
+  border: solid #f7de01;
+}
+
 .cpr {
   margin: 0;
   padding: 10px;
