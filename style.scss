@@ -99,6 +99,9 @@ header {
         margin-top: 0;
         padding: 20px;
     }
+    a {
+        text-decoration: none;
+    }
 }
 .cpr {
     margin: 0;
@@ -151,7 +154,6 @@ header {
     grid-template-columns: repeat(4, 1fr);
     .griditem1 {
         grid-column-start: 1;
-
     }
     .griditem2 {
         grid-column-start: 2;
