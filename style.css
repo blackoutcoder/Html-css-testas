@@ -193,5 +193,11 @@ header {
     -ms-grid-column: 2;
         grid-column-start: 2;
   }
+  .background {
+    height: 1000px;
+  }
+  .background p {
+    padding: 500px;
+  }
 }
 /*# sourceMappingURL=style.css.map */
